@@ -18,6 +18,8 @@ Our engineering team have checked and also contacted Google to report about this
 Thus, if any participant are experiencing this problem, please send the data use agreement file (pdf format) that you have written to the organizer directly by e-mail. mailto : paip.challenge@gmail.com
 We apologize for any inconvenience.
 
+5. Basically, validation submission is a sort of checking process for your prediction result and is not a requirement for the test submission. Even if you did not participate in validation, you can still submit it at the test phase. However, please note that the leaderboard will not be updated during the test phase, that means, there is no way for participants to check their score and rank during test phase. So please continue to be interested in our challenge and participate.
+
 ## `submission_support.py` utility code released
 
 This is an extremely simple code snippet for compressing image masks of final submissions.
